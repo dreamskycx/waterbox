@@ -1,4 +1,16 @@
-site_name: 水箱
+# Project information
+site_name: 水箱档案馆
+site_url: https://dreamskycx.github.io/waterbox/
+site_author: Dreamskycx
+
+
+# Repository
+repo_name: dreamskycx/waterbox
+repo_url: https://github.com/dreamskycx/waterbox
+
+# Copyright
+copyright: Copyright &copy; 2022 Dreamskycx
+
 theme:
 
   name: material
@@ -28,6 +40,7 @@ theme:
         icon: material/brightness-4
         name: 切换白天
       primary: indigo
+
   icon:
     admonition:
       note: octicons/tag-16
@@ -43,11 +56,30 @@ theme:
       example: octicons/beaker-16
       quote: octicons/quote-16
 
+plugins:
+  - search:
+      separator: '[\s\u200b\-]'
+  - minify:
+      minify_html: true
 
 markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
 
-copyright: Copyright &copy; 2022 Time & Deramskycx
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/dreamskycx/waterbox
+      name: 水箱档案馆开源
+    - icon: fontawesome/brands/qq
+      link: https://jq.qq.com/?_wv=1027&k=WrW83q3O
+      name: 水箱游戏交流群（538229336）
 
+# Page tree
+nav:
+  - 水箱: index.md
+  - 什么是水箱:
+    - 水箱介绍: waterbox/index.md
+  - 文案整理:
+    - 剧情文案: article/article.md
