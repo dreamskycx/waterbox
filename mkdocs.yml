@@ -56,6 +56,9 @@ theme:
       example: octicons/beaker-16
       quote: octicons/quote-16
 
+  logo: logo.jpg
+  favicon: logo.jpg
+
 plugins:
   - search:
       separator: '[\s\u200b\-]'
@@ -66,6 +69,8 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+
+
 
 extra:
   social:
