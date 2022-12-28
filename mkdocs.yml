@@ -69,7 +69,11 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
-
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
 
 
 extra:
@@ -86,5 +90,6 @@ nav:
   - 水箱: index.md
   - 什么是水箱:
     - 水箱介绍: waterbox/index.md
+    - 失败的制作者: waterbox/buglist.md
   - 文案整理:
     - 剧情文案: article/article.md
