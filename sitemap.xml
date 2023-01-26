@@ -2,72 +2,77 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://dreamskycx.github.io/waterbox/</loc>
-         <lastmod>2023-01-25</lastmod>
+         <lastmod>2023-01-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dreamskycx.github.io/waterbox/article/article/</loc>
-         <lastmod>2023-01-25</lastmod>
+         <lastmod>2023-01-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dreamskycx.github.io/waterbox/article/execution/</loc>
-         <lastmod>2023-01-25</lastmod>
+         <lastmod>2023-01-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dreamskycx.github.io/waterbox/article/hidden/</loc>
-         <lastmod>2023-01-25</lastmod>
+         <lastmod>2023-01-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dreamskycx.github.io/waterbox/article/inference/</loc>
-         <lastmod>2023-01-25</lastmod>
+         <lastmod>2023-01-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dreamskycx.github.io/waterbox/recreation/birthday2023/</loc>
-         <lastmod>2023-01-25</lastmod>
+         <lastmod>2023-01-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dreamskycx.github.io/waterbox/recreation/list/</loc>
-         <lastmod>2023-01-25</lastmod>
+         <lastmod>2023-01-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dreamskycx.github.io/waterbox/recreation/music/</loc>
-         <lastmod>2023-01-25</lastmod>
+         <lastmod>2023-01-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dreamskycx.github.io/waterbox/recreation/worldoutlook/</loc>
-         <lastmod>2023-01-25</lastmod>
+         <lastmod>2023-01-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dreamskycx.github.io/waterbox/recreation/wrongexecution/</loc>
-         <lastmod>2023-01-25</lastmod>
+         <lastmod>2023-01-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dreamskycx.github.io/waterbox/waterbox/</loc>
-         <lastmod>2023-01-25</lastmod>
+         <lastmod>2023-01-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dreamskycx.github.io/waterbox/waterbox/buglist/</loc>
-         <lastmod>2023-01-25</lastmod>
+         <lastmod>2023-01-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dreamskycx.github.io/waterbox/waterbox/goldbach/</loc>
-         <lastmod>2023-01-25</lastmod>
+         <lastmod>2023-01-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dreamskycx.github.io/waterbox/waterbox/hidden/</loc>
-         <lastmod>2023-01-25</lastmod>
+         <lastmod>2023-01-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dreamskycx.github.io/waterbox/waterbox/wrongword/</loc>
+         <lastmod>2023-01-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
